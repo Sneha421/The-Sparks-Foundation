@@ -7,3 +7,4 @@ This repository contains my solutions to the tasks given by [The Sparks Foundati
 1. **Dataset Used** : [Sample Superstore Dataset](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view)
 2. **Description of the task** : To find the weak areas in business where more profit can be made and to resolve other business problems that has been derived through the analysis
 3. **BI Tool Used** : Tableau Public
+4. **Link to view the visuals** : [Tableau Public Visuals](https://public.tableau.com/profile/sneha1755#!/vizhome/GRIPTask3_16096138099140/SampleSuperstoreCompleteAnalysis)

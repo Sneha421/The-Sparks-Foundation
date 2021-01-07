@@ -1,5 +1,6 @@
 # The-Sparks-Foundation 
-This repository contains my solutions to the tasks given by [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) as a part of the Data Science and Business Analytics Internship
+This repository contains my solutions to the tasks given by the Graduate Rotational Internship Program (GRIP) at the [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) 
+* **Internship Category** : Data Science and Business Analytics
 * **Internship Period** : One month (January 2021)
 * **Internship Mode** : Work from Home
 
